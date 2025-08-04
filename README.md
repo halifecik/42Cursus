@@ -14,6 +14,7 @@ Solving 42 projects helps you master:
 - **Collaboration** & code review
 
 ---
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="100"/>
 </p>
@@ -25,16 +26,53 @@ Solving 42 projects helps you master:
 
 ## 📚 Project Overview
 
-| Milestone | Project                                                                 | Language | Grade           |
-|-----------|-------------------------------------------------------------------------|----------|------------------|
-| 0         | [libft](https://github.com/halifecik/libft)                             | C        | ![grade](https://img.shields.io/badge/Grade-100%25-success) |
-| 1         | [printf](https://github.com/halifecik/printf)                           | C        | ![grade](https://img.shields.io/badge/Grade-101%25-success) |
-| 1         | [get_next_line](https://github.com/halifecik/getNextLine)               | C        | ![grade](https://img.shields.io/badge/Grade-125%25-success) |
-| 2         | [push_swap](https://github.com/halifecik/pushSwap)                      | C        | ![grade](https://img.shields.io/badge/Grade-100%25-success) |
-| 2         | [pipex](https://github.com/halifecik/pipex)                             | C        | ![grade](https://img.shields.io/badge/Grade-100%25-success) |
-| 2         | [fractol](https://github.com/halifecik/fractol)                         | C        | ![grade](https://img.shields.io/badge/Grade-100%25-success) |
-| 3         | [minishell](https://github.com/halifecik/minishell)                     | C        | ![grade](https://img.shields.io/badge/Grade-125%25-success) |
-| 3         | [philosophers](https://github.com/halifecik/philosophers)               | C        | ![grade](https://img.shields.io/badge/Grade-100%25-success) |
+<p align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Milestone</th>
+      <th>Project</th>
+      <th>Language</th>
+      <th>Grade</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">0</td>
+      <td><a href="https://github.com/halifecik/libft">libft</a></td>
+      <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td>A custom standard C library implementation from scratch.</td>
+    </tr>
+    <tr>
+      <td align="center">1</td>
+      <td><a href="https://github.com/halifecik/printf">printf</a></td>
+      <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td>Re-implementation of the C `printf` function with variadic arguments.</td>
+    </tr>
+    <tr>
+      <td align="center">1</td>
+      <td><a href="https://github.com/halifecik/getNextLine">get_next_line</a></td>
+      <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td>Reads a file line by line using a buffer and file descriptor.</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td><a href="https://github.com/halifecik/pushSwap">push_swap</a></td>
+      <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td>Sorting algorithm challenge with the fewest stack operations.</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td><a href="https://github.com/halifecik/pipex">pipex</a></td>
+      <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td>UNIX pipe and process hand
 
 ---
 
