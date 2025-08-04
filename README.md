@@ -33,21 +33,21 @@
       <td align="center">1</td>
       <td><a href="https://github.com/halifecik/printf">printf</a></td>
       <td align="center">C</td>
-      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-101%25-success" /></td>
       <td>A recreation of the standard `printf` function using variadic arguments.</td>
     </tr>
     <tr>
       <td align="center">1</td>
       <td><a href="https://github.com/halifecik/getNextLine">get_next_line</a></td>
       <td align="center">C</td>
-      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-125%25-success" /></td>
       <td>Reads a file line by line efficiently using a buffer.</td>
     </tr>
     <tr>
       <td align="center">1</td>
       <td><a href="https://github.com/halifecik/born2beroot">born2beroot</a></td>
       <td align="center">Shell</td>
-      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-110%25-success" /></td>
       <td>Linux system administration project focused on setting up a secure VM.</td>
     </tr>
     <tr>
@@ -75,14 +75,14 @@
       <td align="center">3</td>
       <td><a href="https://github.com/halifecik/minishell">minishell</a></td>
       <td align="center">C</td>
-      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-125%25-success" /></td>
       <td>Feature-rich shell supporting pipes, redirections, and environment.</td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td><a href="https://github.com/halifecik/philosophers">philosophers</a></td>
       <td align="center">C</td>
-      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-???%25-success" /></td>
       <td>Multithreaded simulation of the Dining Philosophers concurrency problem.</td>
     </tr>
   </tbody>
