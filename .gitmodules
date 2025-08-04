@@ -1,30 +1,3 @@
-[submodule "libft"]
-	path = libft
-	url = git@github.com:halifecik/libft.git
-[submodule "Milestones/Milestone 0/libft"]
-	path = Milestones/Milestone 0/libft
-	url = git@github.com:halifecik/libft.git
-[submodule "Milestones/Milestone 1/printf"]
-	path = Milestones/Milestone 1/printf
-	url = git@github.com:halifecik/printf.git
-[submodule "Milestones/Milestone 1/get_next_line"]
-	path = Milestones/Milestone 1/get_next_line
-	url = git@github.com:halifecik/getNextLine.git
-[submodule "Milestones/Milestone 2/fractol"]
-	path = Milestones/Milestone 2/fractol
-	url = git@github.com:halifecik/fractol.git
-[submodule "Milestones/Milestone 2/pipex"]
-	path = Milestones/Milestone 2/pipex
-	url = git@github.com:halifecik/pipex.git
-[submodule "Milestones/Milestone 2/push_swap"]
-	path = Milestones/Milestone 2/push_swap
-	url = git@github.com:halifecik/pushSwap.git
-[submodule "Milestones/Milestone 3/minishell"]
-	path = Milestones/Milestone 3/minishell
-	url = git@github.com:halifecik/minishell.git
-[submodule "Milestones/Milestone 3/philoshophers"]
-	path = Milestones/Milestone 3/philoshophers
-	url = git@github.com:halifecik/philosophers.git
 [submodule "Milestones/Milestone-0/libft"]
 	path = Milestones/Milestone-0/libft
 	url = git@github.com:halifecik/libft.git
