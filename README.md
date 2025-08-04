@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">42 Cursus — Project Archive</h2>
-<p align="center">Milestone-based journey through the core projects of the 42 curriculum.</p>
 
 ---
 
