@@ -92,4 +92,4 @@
 
 ---
 
-## ⭐️ Feel free to drop a star!
+> ⭐️ Feel free to drop a star!
