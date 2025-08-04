@@ -1,6 +1,5 @@
 # 🌟 42Cursus
-tree/main/
-Welcome! This repos\ tory showcases my solutions to programming projects from the [42 School](https://www.42network.org/) curriculum.
+Welcome! This repository showcases my solutions to programming projects from the [42 School](https://www.42network.org/) curriculum.
 
 ---
 
