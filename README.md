@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td align="center">1</td>
-      <td><a href="https://github.com/halifecik/born2beroot">born2beroot</a></td>
+      <td><a href="">born2beroot</a></td>
       <td align="center">Shell</td>
       <td align="center"><img src="https://img.shields.io/badge/Grade-110%25-success" /></td>
       <td>Linux system administration project focused on setting up a secure VM.</td>
