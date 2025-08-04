@@ -82,7 +82,7 @@
       <td align="center">3</td>
       <td><a href="https://github.com/halifecik/philosophers">philosophers</a></td>
       <td align="center">C</td>
-      <td align="center"><img src="https://img.shields.io/badge/Grade-In%20Progress-lightgrey" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/In%20Progress-lightgrey" /></td>
       <td>Multithreaded simulation of the Dining Philosophers concurrency problem.</td>
     </tr>
   </tbody>
