@@ -31,7 +31,7 @@ Solving 42 projects helps you master:
 | 2   | [pipex](https://github.com/halifecik/42Cursus/tree/main/Milestones/Milestone-2/pipex)     | C 																														| ![pipex](https://img.shields.io/badge/100-success?style=flat-square&logo=42)            	 | Replicate the workings of the shell pipe operator |
 | 2   | [fractol](https://github.com/halifecik/42Cursus/tree/main/Milestones/Milestone-2/fractol)     | C 																														| ![fractol](https://img.shields.io/badge/100-success?style=flat-square&logo=42)            	 | Create a basic computer graphics project |
 | 3   | [minishell](https://github.com/halifecik/42Cursus/tree/main/Milestones/Milestone-3/minishell)     | C 																														| ![minishell](https://img.shields.io/badge/125-success?style=flat-square&logo=42)            	 | Create a minitature shell program (Bash) |
-| 3   | [philosophers](https://github.com/halifecik/42Cursus/tree/main/Milestones/Milestone-3/philosophers)     | C 																														| ![in progress](https://img.shields.io/badge/-???-lightgrey?style=flat-square&logo=42)           	 |  Solve the dining philosophers  problem with pthreads and mutexes |
+| 3   | [philosophers](https://github.com/halifecik/42Cursus/tree/main/Milestones/Milestone-3/philosophers)     | C 																														| ![philosophers](https://img.shields.io/badge/---???-lightgrey?style=flat-square&logo=42)           	 |  Solve the dining philosophers  problem with pthreads and mutexes |
 ---
 
 > **42** is a peer-to-peer coding school where you learn by solving real-world programming challenges.  
