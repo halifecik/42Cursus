@@ -16,6 +16,3 @@
 [submodule "Milestones/Milestone-3/minishell"]
 	path = Milestones/Milestone-3/minishell
 	url = git@github.com:halifecik/minishell.git
-[submodule "Milestones/Milestone-3/philoshophers"]
-	path = Milestones/Milestone-3/philoshophers
-	url = git@github.com:halifecik/philosophers.git
