@@ -1,3 +1,6 @@
+[submodule "Milestones/Milestone-0/libft"]
+	path = Milestones/Milestone-0/libft
+	url = git@github.com:halifecik/libft.git
 [submodule "Milestones/Milestone-1/printf"]
 	path = Milestones/Milestone-1/printf
 	url = git@github.com:halifecik/printf.git
@@ -16,6 +19,3 @@
 [submodule "Milestones/Milestone-3/minishell"]
 	path = Milestones/Milestone-3/minishell
 	url = git@github.com:halifecik/minishell.git
-[submodule "Milestones/Milestone-0/libft"]
-	path = Milestones/Milestone-0/libft
-	url = git@github.com:halifecik/libft.git
