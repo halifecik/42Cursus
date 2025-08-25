@@ -33,7 +33,7 @@
       <td><a href="https://github.com/halifecik/printf">printf</a></td>
       <td align="center">C</td>
       <td align="center"><img src="https://img.shields.io/badge/Grade-101%25-success" /></td>
-      <td>A recreation of the standard `printf` function using variadic arguments.</td>
+      <td>A recreation of the `printf` function using variadic arguments.</td>
     </tr>
     <tr>
       <td align="center">1</td>
