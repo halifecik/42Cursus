@@ -33,14 +33,14 @@
       <td><a href="https://github.com/halifecik/printf">printf</a></td>
       <td align="center">C</td>
       <td align="center"><img src="https://img.shields.io/badge/Grade-101%25-success" /></td>
-      <td>A recreation of the `printf` function using variadic arguments.</td>
+      <td>A recreation of the printf function using variadic arguments.</td>
     </tr>
     <tr>
       <td align="center">1</td>
       <td><a href="https://github.com/halifecik/getNextLine">get_next_line</a></td>
       <td align="center">C</td>
       <td align="center"><img src="https://img.shields.io/badge/Grade-125%25-success" /></td>
-      <td>Reads a file line by line efficiently using a buffer.</td>
+      <td>Function to read files line by line efficiently using a buffer.</td>
     </tr>
     <tr>
       <td align="center">1</td>
@@ -81,9 +81,17 @@
       <td align="center">3</td>
       <td><a href="https://github.com/halifecik/philosophers">philosophers</a></td>
       <td align="center">C</td>
-      <td align="center"><img src="https://img.shields.io/badge/In%20Progress-lightgrey" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
       <td>Multithreaded simulation of the Dining Philosophers concurrency problem.</td>
     </tr>
+    <tr>
+      <td align="center">4</td>
+      <td><a href="https://github.com/halifecik/cub3d">cub3d</a></td>
+      <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/In%20Progress-lightgrey" /></td>
+      <td>A recreation of the first fps game Wolfenstein using raycasting.</td>
+    </tr>
+    <tr>
   </tbody>
 </table>
 
