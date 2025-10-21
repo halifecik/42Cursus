@@ -22,3 +22,9 @@
 [submodule "Milestones/Milestone-3/philosophers"]
 	path = Milestones/Milestone-3/philosophers
 	url = git@github.com:halifecik/philosophers.git
+[submodule "Milestones/Milestone-4"]
+	path = Milestones/Milestone-4
+	url = git@github.com:halifecik/cub3d.git
+[submodule "Milestones/Milestone-5"]
+	path = Milestones/Milestone-5
+	url = git@github.com:melmut-42/webserv.git
