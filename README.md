@@ -88,8 +88,15 @@
       <td align="center">4</td>
       <td><a href="https://github.com/halifecik/cub3d">cub3d</a></td>
       <td align="center">C</td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-125%25-success" /></td>
+      <td>A game engine using raycasting to simulate a 3D environment.</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td><a href="https://github.com/melmut-42/webserv">webserv</a></td>
+      <td align="center">C++</td>
       <td align="center"><img src="https://img.shields.io/badge/In%20Progress-lightgrey" /></td>
-      <td>A recreation of the first fps game Wolfenstein using raycasting.</td>
+      <td>Web Server using  Hypertext Transfer Protocol (HTTP). </td>
     </tr>
     <tr>
   </tbody>
