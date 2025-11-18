@@ -92,6 +92,13 @@
       <td>A game engine using raycasting to simulate a 3D environment.</td>
     </tr>
     <tr>
+      <td align="center">4</td>
+      <td><a href="https://github.com/halifecik/42Cursus">NetPractice</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/Networking%20-lightgray" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grade-100%25-success" /></td>
+      <td>Project to discover the basics of networking.</td>
+    </tr>
+    <tr>
       <td align="center">5</td>
       <td><a href="https://github.com/melmut-42/webserv">webserv</a></td>
       <td align="center"><img src="https://img.shields.io/badge/C++%20-blue" /></td>
